@@ -1,3 +1,5 @@
+import styles from './style.module.css'
+
 export default function Hero() {
-  return <div>Hero</div>
+  return <div className={styles.container}>asda</div>
 }
